@@ -1,6 +1,6 @@
 # 🔁 Skill Swap Platform – Backend
 
-This is the backend for the **Skill Swap Platform**, a web application that allows users to list their skills, request skills from others, and collaborate through swap requests.
+Introducing **Skill Swap Platform**, a web application that allows users to list their skills, request skills from others, and collaborate through swap requests.
 
 ---
 
