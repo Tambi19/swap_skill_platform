@@ -36,7 +36,7 @@ cd swap_skill_platform/backend
 
 
 ##Team Members:
-1. Tambi Rao
-2. Aditya Bisai
-3. Divyansh Muni
-4. Bipesh Das
+1. Tambi Rao   ktr.mxn@gmail.com
+2. Aditya Bisai    adityabisai1234@gmail.com
+3. Divyansh Muni   divyanshmuni@gmail.com
+4. Bipesh Das     bipeshdas16@gmail.com
